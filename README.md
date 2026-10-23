@@ -11,7 +11,7 @@ LLM inference, agent memory, and LLMs for hardware design. Master's student at S
 ## Inference
 
 - **[llama.cpp on an FPGA](https://zedongpeng.com/blog/2026/llama-cpp-on-an-fpga/)** — LLM inference on an AMD Alveo U280
-- **[vLLM](https://github.com/vllm-project/vllm)** — Intel device support, during my internship at Intel
+- **[vLLM](https://github.com/vllm-project/vllm)** — Device support @Intel
 - **[qwen38-4090-decode](https://github.com/zedong-peng/qwen38-4090-decode)** — Qwen3.8-27B at 245 tok/s on one RTX 4090
 
 ## Tools
